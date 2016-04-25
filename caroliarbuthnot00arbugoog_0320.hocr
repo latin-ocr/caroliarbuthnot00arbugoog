@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caroliarbuthnot00arbugoog_0320.png"; bbox 0 0 4140 5646; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 546 3468 1559 3747">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 546 3468 1559 3747">
+     <span class='ocr_line' id='line_1_1' title="bbox 660 3468 1559 3614; baseline 0 -33"><span class='ocrx_word' id='word_1_1' title='bbox 660 3477 953 3614; x_wconf 60' lang='lat' dir='ltr'><em>stlerffaras</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 992 3500 1144 3580; x_wconf 80' lang='lat' dir='ltr'><em>cavae</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1186 3468 1559 3607; x_wconf 56' lang='lat' dir='ltr'><em>Arctior-am,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 546 3604 1544 3747; baseline -0.014 -43"><span class='ocrx_word' id='word_1_4' title='bbox 546 3669 551 3675; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 635 3612 865 3703; x_wconf 58' lang='lat' dir='ltr'><em>nostrum</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 876 3604 1116 3731; x_wconf 64' lang='lat' dir='ltr'><em>spellant</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1162 3636 1293 3747; x_wconf 68' lang='lat' dir='ltr'><em>prof)</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1350 3621 1544 3698; x_wconf 64' lang='lat' dir='ltr'><em>ctum:</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 624 3725 1637 4018">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 624 3725 1637 4018">
+     <span class='ocr_line' id='line_1_3' title="bbox 624 3725 1542 3850; baseline -0.003 -13"><span class='ocrx_word' id='word_1_9' title='bbox 624 3782 712 3837; x_wconf 74' lang='lat' dir='ltr'><em>tom</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 738 3725 1209 3837; x_wconf 67' lang='lat' dir='ltr'><strong>Wnchestrienfem</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1258 3762 1542 3850; x_wconf 68' lang='lat' dir='ltr'><em>eonnatac,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 625 3882 1637 4018; baseline 0.01 -49"><span class='ocrx_word' id='word_1_12' title='bbox 625 3882 911 4015; x_wconf 25' lang='lat' dir='ltr'><em>ees-Sobidos</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 968 3906 1089 4018; x_wconf 54' lang='lat'><em>2723</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1148 3894 1407 3979; x_wconf 62' lang='lat' dir='ltr'><em>continet,</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1533 3952 1536 3958; x_wconf 90' lang='lat'>-</span> <span class='ocrx_word' id='word_1_16' title='bbox 1633 3936 1637 3943; x_wconf 56' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2074 5646">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2074 5646">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2074 5646; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2074 5646; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
